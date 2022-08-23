@@ -10,7 +10,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   color: var(--color-text);
   background-color: var(--color-bg);
-  background-image: url('/images/bg-mobile.svg');
+  background-image: url('https://iwanharyatno.github.io/fm-huddle-intro-section/images/bg-mobile.svg');
   background-position: top 0 left 0;
   background-repeat: no-repeat;
   background-size: contain;
@@ -100,7 +100,7 @@ footer {
 
 @media screen and (min-width: 768px) {
   body {
-    background-image: url('/images/bg-desktop.svg');
+    background-image: url('https://iwanharyatno.github.io/fm-huddle-intro-section/images/bg-desktop.svg');
     margin: 0 3rem;
   }
 
