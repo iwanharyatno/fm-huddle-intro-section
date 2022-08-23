@@ -13,7 +13,7 @@ body {
   background-image: url('https://iwanharyatno.github.io/fm-huddle-intro-section/images/bg-mobile.svg');
   background-position: top 0 left 0;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-attachment: fixed;
 }
 
