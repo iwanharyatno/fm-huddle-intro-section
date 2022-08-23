@@ -27,7 +27,7 @@ header {
 }
 
 p {
-  line-height: 2rem;
+  line-height: 1.4rem;
 }
 
 .nav-logo {
@@ -95,7 +95,6 @@ p {
 footer {
   display: flex;
   justify-content: center;
-  padding: 4rem 2rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -122,13 +121,13 @@ footer {
   }
 
   .section-content {
-    padding: 3rem;
+    padding: 3rem 1.5rem;
     text-align: left;
     width: 40%;
   }
 
   .section-title {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   .btn-white {
